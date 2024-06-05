@@ -29,6 +29,7 @@ simple-crud/
 ├── utils/
 │   └── parseRequestBody.js
 └── server.js
+```
 
 ## Расширенная версия(Возможно такое и будет, но не точно)
 
