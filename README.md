@@ -102,10 +102,10 @@ node server.js
 
 ### 1. Создание нового пользователя:
 
-Выберите метод POST.
-Введите URL: http://localhost:3000/api/users.
-В разделе "Body" выберите "raw" и "JSON".
-Введите JSON данные:
+- Выберите метод POST.
+- Введите URL: http://localhost:3000/api/users.
+- В разделе "Body" выберите "raw" и "JSON".
+- Введите JSON данные:
 
 ```json
 {
@@ -114,26 +114,26 @@ node server.js
     "age": 30
 }
 ```
-Нажмите "Send".
+- Нажмите "Send".
 
 ### 2. Получение всех пользователей:
 
-Выберите метод GET.
-Введите URL: http://localhost:3000/api/users.
-Нажмите "Send".
+- Выберите метод GET.
+- Введите URL: http://localhost:3000/api/users.
+- Нажмите "Send".
 
 ### 3. Получение пользователя по ID:
 
-Выберите метод GET.
-Введите URL: http://localhost:3000/api/users/1.
-Нажмите "Send".
+- Выберите метод GET.
+- Введите URL: http://localhost:3000/api/users/1.
+- Нажмите "Send".
 
 ### 4. Обновление пользователя по ID:
 
-Выберите метод PUT.
-Введите URL: http://localhost:3000/api/users/1.
-В разделе "Body" выберите "raw" и "JSON".
-Введите JSON данные:
+- Выберите метод PUT.
+- Введите URL: http://localhost:3000/api/users/1.
+- В разделе "Body" выберите "raw" и "JSON".
+- Введите JSON данные:
 
 ```json
 
@@ -143,10 +143,10 @@ node server.js
     "age": 25
 }
 ```
-Нажмите "Send".
+- Нажмите "Send".
 
 ### 5. Удаление пользователя по ID:
 
-Выберите метод DELETE.
-Введите URL: http://localhost:3000/api/users/1.
-Нажмите "Send".
+- Выберите метод DELETE.
+- Введите URL: http://localhost:3000/api/users/1.
+- Нажмите "Send".
