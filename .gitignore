@@ -1,2 +1,3 @@
-improvedCRUD/node_modules
+improved-crud/node_modules
 .vscode
+express-sqlite-crud/node_modules
